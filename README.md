@@ -197,16 +197,11 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/065a7644-da42-4121-a4c3-1bc56ddcbddc)
 ![image](https://github.com/user-attachments/assets/4bf478af-551b-42b6-927f-01a9a93e423f)
 
-
 ## Natural Sampling 
 <img width="1280" height="911" alt="image" src="https://github.com/user-attachments/assets/4c0c7dcb-dbd3-4e0e-8cc3-a2d00ef94902" />
 
-
 ## Flat-top Sampling 
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/9d2c1fcb-6a6a-49cc-84e2-6140a3a6dd28" />
-
-
-
 
 # Results
 Thus, the python programs for ideal sampling, natural sampling and flat-top sampling has been executed and verified successfully.
